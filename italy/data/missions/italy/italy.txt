@@ -1,0 +1,81 @@
+[config]
+currency = "Û"
+population = 30275
+economic_cycle_start = 0.1
+min_income = 0
+max_income = 500000
+min_gdp = 149000
+max_gdp = 31490000000
+wealth_mod = 1.475
+starting_debt = 1157802
+name  = "Italy"
+guiname = "Italy"
+names_file = "italy\data\names\italynames.txt"
+term_length = 16
+max_terms = -1
+details_image = "italy_details.jpg"
+description = "Since the Rise of Rome, Italy has been able to acquire 50% of the world's cultural heritage. Italy once was a great empire, but now it's a nation which can't keep up with the European growth. Corrupt government and organized crime won’t be your major issues. Will you make the difference and lead Italy to rise again from the ashes and bring the nation to its former glory?"
+flag = "flag_italy.jpg"
+apathy = 0.322
+jobtitle = "Prime Minister"
+GUID = 3
+
+[options]
+
+[stats]
+Population: = "60,550,075 (Dec 2019)"
+Size: = " 301,340 km2"
+Life expectancy: = "84.8 y/f - 80.5 y/f"
+Gini(inequality): = "33"
+GDP per capita: = "31.984 U+20AC"
+Poverty: = "12.6% (2013)"
+Ethnicity: = "91.5% white"
+Religion: = "Christian (87.0%)"
+Pasta Consumption: = "26 kgs/p year (2011)"
+Obesity Rate: = "19.8%"
+Population aged 0 - 14: = "13,2% (2019)"
+Population aged 15 - 64: = "64,0% (2019)"
+Population aged above 64: = "22,8% (2019)"
+Tax evasion: = "192 bln Û"
+
+[policies]
+CorporationTax = 0.28
+SalesTax = 0.21
+PetrolTax = 0.16
+UnemployedBenefit = 0.40
+StateHealthService = 1
+StateSchools = 0.18
+PropertyTax = 0.55
+RailSubsidies = 0.3
+TobaccoTax = 0.2
+StatePensions = 0.5
+InheritanceTax = 0.3
+AlcoholTax = 0.2
+PollutionControls = 0.85
+Narcotics = 0
+JuryTrial = 0.7
+LegalAid = 0.7
+IncomeTax = 0.37
+ForeignAid = 0.31
+CleanEnergySubsidies = 0.86
+Recycling = 1.0
+ScienceFunding = 0.55
+MilitarySpending = 0.32
+AlcoholLaw = 0.4
+AirlineTax = 0.12
+Creationism = 0.4
+MicrogenerationGrants = 0.95
+IDCards = 0.6
+TechnologyGrants = 0.74
+PoliceForce = 0.3
+ChildBenefit = 0.85
+TechnologyColleges = 0.26
+UniversityGrants = 0.08
+CarEmmissionsLimits = 0.75
+AgricultureSubsidies = 0.75
+OrganicSubsidy = 0.7
+LabourLaws = 0.75
+DisabilityBenefit = 0.67
+MaternityLeave = 0.84
+Prisons = 0.2
+ArmedPolice = 0.75

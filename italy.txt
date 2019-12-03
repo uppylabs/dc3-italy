@@ -1,0 +1,7 @@
+[config]
+name = Italy (2019)
+path = italy
+guiname = Italy (2019)
+author = tsrandrei
+description = Welcome to the Italy mod, with working imagery, names and policies that reflect the country.
+
